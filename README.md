@@ -7,7 +7,7 @@ Skills: Unity / C# / Blender / JS / HTML / CSS
 - 🔭 I’m currently working on a project called Hamuria 
 - 📫 How to reach me: https://t.me/Dianom23 
 
-<div style='display: flex; width:150px; justify-content:space-evenly;'>
+<div style='display: flex; width:200px; justify-content:space-evenly;'>
 
 <a href='#'><img src='https://i.redd.it/tu3gt6ysfxq71.png' width='35' height='35'></a> 
 
