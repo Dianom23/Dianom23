@@ -7,7 +7,9 @@ Skills: Unity / C# / Blender / JS / HTML / CSS
 - 🔭 I’m currently working on a project called Hamuria 
 - 📫 How to reach me: https://t.me/Dianom23 
 
+<div style='display: flex; width:150px; justify-content:space-evenly;'>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dianom23)  
+<a href='#'><img src='https://i.redd.it/tu3gt6ysfxq71.png' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianom23)](https://github.com/anuraghazra/github-readme-stats)
+<a href='#'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png' width='39' height='35'></a>
+</div>
