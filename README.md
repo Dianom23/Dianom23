@@ -7,5 +7,5 @@ Skills: Unity / C# / Blender / JS / HTML / CSS
 - 🔭 I’m currently working on a project called Hamuria 
 - 📫 How to reach me: https://t.me/Dianom23 
 
-https://img.shields.io/badge/-Unity-000?&logo=Unity
-https://img.shields.io/badge/-Blender-000?&logo=Blender
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
