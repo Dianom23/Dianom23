@@ -28,14 +28,6 @@ In my free time I:
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianom23&show_icons=true&theme=tokyonight)
-
-### 🏆 Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dianom23&theme=onedark)
-
 ### 📈 Streak & Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dianom23)
